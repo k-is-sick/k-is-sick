@@ -34,7 +34,7 @@
 
   <text x="24" y="62" class="prompt line l1">$ <tspan class="cmd">whoami --github</tspan></text>
   <text x="24" y="86" class="label line l1">coding since</text>
-  <text x="476" y="86" text-anchor="end" class="value line l1">2 yrs, 17 days</text>
+  <text x="476" y="86" text-anchor="end" class="value line l1">2 yrs, 18 days</text>
 
   <text x="24" y="118" class="prompt line l2">$ <tspan class="cmd">git log --author=k-is-sick --all</tspan></text>
   <text x="24" y="142" class="label line l2">total commits (last year window sum)</text>
