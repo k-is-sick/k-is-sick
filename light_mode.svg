@@ -34,11 +34,11 @@
 
   <text x="24" y="62" class="prompt-l line l1">$ <tspan class="cmd-l">whoami --github</tspan></text>
   <text x="24" y="86" class="label-l line l1">coding since</text>
-  <text x="476" y="86" text-anchor="end" class="value-l line l1">2 yrs, 24 days</text>
+  <text x="476" y="86" text-anchor="end" class="value-l line l1">2 yrs, 25 days</text>
 
   <text x="24" y="118" class="prompt-l line l2">$ <tspan class="cmd-l">git log --author=k-is-sick --all</tspan></text>
   <text x="24" y="142" class="label-l line l2">total commits (last year window sum)</text>
-  <text x="476" y="142" text-anchor="end" class="value-l line l2">49</text>
+  <text x="476" y="142" text-anchor="end" class="value-l line l2">50</text>
 
   <text x="24" y="174" class="prompt-l line l3">$ <tspan class="cmd-l">gh repo list --stats</tspan></text>
   <text x="24" y="198" class="label-l line l3">public repos owned</text>
@@ -51,5 +51,5 @@
   <text x="476" y="258" text-anchor="end" class="value-l line l6">3</text>
 
   <text x="24" y="286" class="prompt-l line l7">$ <tspan class="cmd-l">cloc --diff-report all-repos</tspan></text>
-  <text x="24" y="306" class="label-l line l8">+824,212 / -633,752 lines <tspan fill="#57606a">(net 190,460)</tspan><tspan class="cmd-l cursor">_</tspan></text>
+  <text x="24" y="306" class="label-l line l8">+638,029 / -633,752 lines <tspan fill="#57606a">(net 4,277)</tspan><tspan class="cmd-l cursor">_</tspan></text>
 </svg>

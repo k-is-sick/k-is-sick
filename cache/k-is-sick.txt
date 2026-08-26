@@ -8,4 +8,4 @@ k-is-sick/WT_assignment-1 1 1356 36
 k-is-sick/SEM_practical-8 1 0 0
 k-is-sick/Local_AWS 1 2223 873
 zoro1126/ALERT 0 0 0
-k-is-sick/Dotfiles 1 186183 0
+k-is-sick/Dotfiles 0 0 0
