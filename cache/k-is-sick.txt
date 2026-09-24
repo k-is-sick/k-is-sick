@@ -11,3 +11,4 @@ zoro1126/ALERT 0 0 0
 k-is-sick/Dotfiles 0 0 0
 k-is-sick/Homelab 1 271 0
 k-is-sick/NEXTERM 1 7404 20
+k-is-sick/obsidian-vault 1 19487 216
